@@ -10,7 +10,19 @@ takes 2nd-year; a majority of 2nd-year students and beyond move off-campus.
 Everybody who lives in a dorm is required to have an unlimited dining hall
 plan. This is included in the cost of your "room and board".
 
-# Housing
+## Furniture
+
+Your room will come with a basic set of furniture that includes a twin XL bed,
+a desk, and a dresser; these will usually be either [type
+I](https://kb.housing.umich.edu/hc/en-us/articles/360003071492-Lifespace-II-Modular-Furniture-Information)
+or [type
+II](https://kb.housing.umich.edu/hc/en-us/articles/360003072952-Building-Block-Furniture-Information).
+(The Martha Cook building is an exception.) 
+
+You are welcome to bring whatever else you want as long as it's not
+[prohibited](https://kb.housing.umich.edu/hc/en-us/articles/32856504719629-Regulated-and-Prohibited-Items-in-Michigan-Housing).
+
+## Rates and costs
 
 [Housing rates for each room
 type](https://housing.umich.edu/undergraduate-rates/] are updated every June.
