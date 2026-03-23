@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -eux
+
+cd "${BASH_SOURCE[0]%/*}"
+
+rm -rf book
+
+mdbook build
+
+rsync -z --chmod=u=rwX,go=rX --delete-after -aPv book/ me@runxiyu.org:/var/www/thirty/
