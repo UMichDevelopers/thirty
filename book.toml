@@ -1,4 +1,23 @@
 [book]
 title = "Guide for U-M Class of 2030"
+description = "A comprehensive guide for students of the Class of 2030 of the University of Michigan."
 authors = ["Runxi Yu"]
 language = "en"
+src = "src"
+
+[build]
+create-missing = true
+build-dir = "book"
+use-default-preprocessors = true
+
+[output.html]
+smart-punctuation = true
+definition-lists = true
+admonitions = true
+mathjax-support = false
+no-section-label = true
+git-repository-url = "https://github.com/UMichDevelopers/thirty"
+git-repository-icon = "fas-code-fork"
+edit-url-template = "https://github.com/UMichDevelopers/thirty/edit/master/guide/{path}"
+site-url = "/"
+sidebar-header-nav = true
