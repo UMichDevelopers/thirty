@@ -38,6 +38,12 @@ Each dorm has at least one laundry room, typically located on the ground floor.
 Washer costs $1.50 per load and dryer costs $1.50 per load (may change). You
 either use an app or cash to pay.
 
+The driers suck. They are way bigger than the washers, but don't think that
+means you can wash two loads and dry them in one. They just hard stop after an
+hour, and they barely dry one washer load sometimes. You get the odd one that
+works really well, but combining loads never works, especially when towels are
+involved.
+
 ## Mail
 
 Each dorm has a community center that will receive your mail and packages. You
@@ -110,4 +116,30 @@ page](https://housing.umich.edu/residence-halls-comparison/).
 
 - Martha Cook, Helen Newberry, and Betsy Barbour are female-only dorms on
   central campus. Martha Cook requires a special application process.
+
 - Nobody seems to report living in Fletcher.
+
+## Dorm-specific commentary
+
+- North Quad is expensive and is reported to be relatively asocial. Its air
+  conditioning has also been a bit unreliable, and is reported to be the only
+  one where climate control is centralized.
+
+- The South Quad gender inclusive hall has a gender inclusive bathroom, with
+  doors and decent privacy. It's typically cleaner than other bathrooms.
+
+- Many rooms in South Quad reportedly have a window A/C unit these days.
+
+- The reputation of Bursley and Baits II are rather bad. Baits II is sometimes
+  reported as "Markley without any of its redeeming qualities".
+
+- Communal kitchens in South Quad and North Quad are reported to be disgusting.
+
+- East Quad showers contain an alcove between the door and the actual shower,
+  where you may place clothes and change in safety. It also has at least one
+  single-stall bathroom with whole-room locks.
+
+- Bursley's gender-inclusive hall is on the 4th floor with a slightly higher
+  ceiling. The heating is bad and has no individual room control at all.
+  Burlsy food is reported to be quite bad. Generally, Bursley does not attract
+  sorrority and fraternity members. Nights are darker and quieter. (From Marcella)
